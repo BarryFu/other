@@ -48,9 +48,9 @@
 	hash是key不能相同
 	如同之前sun對sunday是key對value
   
-  ###hw 
+###hw 
 	
-	看 
-  
-
-
+	看差別 if x == [ ] :
+  	print()
+	if x is [ ] :
+	print()
