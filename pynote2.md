@@ -50,9 +50,7 @@
   
 ###hw 
 	
-	看差別 
-	
-	if x == [ ] :
+	看差別 if x == [ ] :
   	print()
 	if x is [ ] :
 	print()
