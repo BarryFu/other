@@ -54,3 +54,37 @@
   	print()
 	if x is [ ] :
 	print()
+
+##tuple 
+
+    不可改的序列，和串列很像，但不可改語法
+
+    list，dictionary用{}，array用[]
+    a=[], b=[1, 2, 3]
+    for - in b, print(var) 會得到
+    1
+    2
+    3
+
+##dict 
+
+    dict = {'a': 3, 'b': 2, 'c': 1}
+    無排序性，所以print順序會散
+    取出用print(dict['a'])，會噴出3
+
+    for var in dict.key()
+    print(var)
+    print(dict[var])
+
+    a b c
+    3 2 1
+
+    ** for k,v in dict.items(): 
+    print(k, v)
+    這個較清楚
+
+##Enum 
+
+    可先看java範例，在python的使用方式不一樣，要注意value不能相同
+    hash則是key不能相同
+
