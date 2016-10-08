@@ -14,6 +14,7 @@
 	
 	Windows下pybuilder會有編譯的問題,V跟F開頭的scripts名稱會錯誤
 	目前先改為cv2g,cvfreq,cvscan
+![Alt text][https://github.com/BarryFu/other/blob/master/14599745_1233657679988641_1987580550_o.png]
 
 ### 3.pycharm load virtualenv
 	
