@@ -27,11 +27,11 @@
 ### 問題
 
 	vtool3,vfreq會有浮點數的error，出現在vasp.py553行
-![1](https://github.com/BarryFu/other/blob/master/vfreq-error.PNG)
+![1](https://github.com/BarryFu/picture/blob/master/vfreq-error.PNG)
 
 	在541行處修改
-![2](https://github.com/BarryFu/other/blob/master/vfreq2.PNG)	
+![2](https://github.com/BarryFu/picture/blob/master/vfreq2.PNG)	
 
 
 	pybot執行後，vtool3的格式有些不同，且原子編號不對
-![3](https://github.com/BarryFu/other/blob/master/vfreq3.PNG)	
+![3](https://github.com/BarryFu/picture/blob/master/vfreq3.PNG)	
