@@ -35,3 +35,13 @@
 
 	pybot執行後，vtool3的格式有些不同，且原子編號不對
 ![3](https://github.com/BarryFu/picture/blob/master/vfreq3.PNG)	
+
+### windows pycharm
+
+	在windows-virtualenv下，vfreq要把路徑打出來，且\要2次
+	python C:\\Users\\Casey\\AppData\\Local\\Programs\\Python\\Python35\\py3\\Scripts\\cvfreq
+
+	cat改成type
+![4](https://github.com/BarryFu/picture/blob/master/vfreq4.PNG)
+
+	
