@@ -42,6 +42,6 @@
 	python C:\\Users\\Casey\\AppData\\Local\\Programs\\Python\\Python35\\py3\\Scripts\\cvfreq
 
 	cat改成type
-![4](https://github.com/BarryFu/picture/blob/master/vfreq4.PNG)
+![4](https://github.com/BarryFu/other/blob/master/picture/vfreq4.PNG)
 
 	
