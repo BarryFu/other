@@ -21,3 +21,12 @@
 	
 	在settings,project interpreter 
 	addlocal: py3\scripts\python.exe 
+
+### 4.windows pycharm
+
+	在windows-virtualenv下，vfreq要把路徑打出來，且\要2次
+	python C:\\Users\\Casey\\AppData\\Local\\Programs\\Python\\Python35\\py3\\Scripts\\cvfreq
+
+	cat改成type
+
+	
