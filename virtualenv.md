@@ -19,6 +19,8 @@
 	如果失敗去zypper se python-setuptool
 	安裝package，若找不到去yast-software-repositories
 	把光碟的sdk跟sles掛上去，通常在/home/pkg裡面
+	Ignoring ensurepip failure: pip 8.1.1 requires SSL/TLS
+	若是遇到pip3因為SSL,TSL問題，要先zypper install openssl libopenssl-devel把SSL裝起來
 
 ###6.
 	完成安裝pip
@@ -36,3 +38,4 @@
 	pip install pybuilder 
 	在裝vtool或vtool3,
 	pyb_ clean install
+
