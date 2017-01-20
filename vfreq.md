@@ -30,7 +30,7 @@
 ![1](https://github.com/BarryFu/other/blob/master/picture/vfreq-error.PNG)
 
 	在541行處修改
-![2](https://github.com/BarryFu/other/blob/master/picutre/vfreq2.PNG)	
+![2](https://github.com/BarryFu/other/blob/master/picture/vfreq2.PNG)	
 
 
 	pybot執行後，vtool3的格式有些不同，且原子編號不對
