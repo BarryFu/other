@@ -8,13 +8,13 @@ a.下載完後進入/usr/src/packages，會看到rpmbuild的格式{BUILD, RPMS, 
 
 b.將壓縮檔解壓至BUILD，pdsh.spec檔放入SPECS後，rpmbuild -bb(或ba) pdsh.spec 即可做成rpm檔(或+srpm)
 
-![](https://github.com/BarryFu/md/)
+![](https://github.com/BarryFu/other/blob/master/2ndHw/rpmbuild1.PNG)
 
 c.過程中有缺少的再用zypper安裝即可
 
 ## 2. openjdk, oraclejdk install and switch 
 
-a.oraclejdk : 在http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html下載壓縮檔在/opt解壓縮
+a.oraclejdk : 在http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html 下載壓縮檔在/opt解壓縮
 
 b.openjdk : 則是在sles12中可直接zypper in或是在sles11中先安裝glibc2.14以上版本也可以開啟
 
@@ -30,7 +30,7 @@ d.新增oraclejdk: update-alternatives --install /usr/bin/java java /{PATH}/bin/
 
 也可用update-alternatives --config java 轉換如圖
 
-![](https://github.com/BarryFu/md/)
+![](https://github.com/BarryFu/other/blob/master/2ndHw/java1.PNG)
 
 ## 3. zypper 安裝oracle
 
@@ -40,5 +40,5 @@ b. 之後pip 安裝或更新pip install or pip install --upgrate python-setuptoo
 
 c. pip install ansible後不確定是否成功安裝完...
 
-![](https://github.com/BarryFu/md/)
+![](https://github.com/BarryFu/other/blob/master/2ndHw/ansible1.PNG)
 
