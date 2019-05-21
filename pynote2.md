@@ -3,7 +3,7 @@
     list : 像是link，可動態增加
     array : 先宣告記憶體空間再把東西放入
 
-##set序列
+## set序列
 
     集合概念，重復的會省略
 
@@ -30,7 +30,7 @@
 
     [ , 1, 2, 3]
 
-##反轉
+## 反轉
     
     反轉a.reverse，要先做完才能print(a)
     注意python是code by reference
@@ -41,21 +41,21 @@
 
 	運用deepcopy複製reference才不會影響原本的
 
-##hashmap
+## hashmap
 	
 	定義key 和 value
 	要注意Enum是value不能相同
 	hash是key不能相同
 	如同之前sun對sunday是key對value
   
-###hw 
+### hw 
 	
 	看差別 if x == [ ] :
   	print()
 	if x is [ ] :
 	print()
 
-##tuple 
+## tuple 
 
     不可改的序列，和串列很像，但不可改語法
 
@@ -66,7 +66,7 @@
     2
     3
 
-##dict 
+## dict 
 
     dict = {'a': 3, 'b': 2, 'c': 1}
     無排序性，所以print順序會散
@@ -83,7 +83,7 @@
     print(k, v)
     這個較清楚
 
-##Enum 
+## Enum 
 
     可先看java範例，在python的使用方式不一樣，要注意value不能相同
     hash則是key不能相同
