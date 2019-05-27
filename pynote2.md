@@ -55,6 +55,21 @@
   	print()
 	if x is [ ] :
 	print()
+	
+### sol 
+
+	a = [1,2,3]
+	b = a
+
+	print ( a == b )	# true
+	print ( a is b )	# true
+
+	c = [1,2,3]
+
+	print ( c == a )	# true
+	print (c is a)		# false
+
+
 
 ## tuple 
 
