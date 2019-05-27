@@ -101,7 +101,7 @@
 
     範例
 ![1](https://github.com/BarryFu/other/blob/master/picture/1.PNG)
-![2](https://github.com/BarryFu/other/blob/master/picture/2.JPEG)
+![2](https://github.com/BarryFu/other/blob/master/picture/2.JPG)
 
 ## Enum 
 
