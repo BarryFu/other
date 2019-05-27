@@ -36,7 +36,8 @@
     注意python是code by reference
     若用 a =c, 反轉c會使得來源被反轉，因此a也會反轉
     所以a.任何事情都會影響到a原本的值
-
+   
+    import copy
     c= copy.deepcopy(a)
 
 	運用deepcopy複製reference才不會影響原本的
