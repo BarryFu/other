@@ -99,6 +99,10 @@
     print(k, v)
     這個較清楚
 
+    範例
+    ![1](https://github.com/BarryFu/other/blob/master/picture/1.PNG)
+    ![2](https://github.com/BarryFu/other/blob/master/picture/2.JPEG)
+
 ## Enum 
 
     可先看java範例，在python的使用方式不一樣，要注意value不能相同
