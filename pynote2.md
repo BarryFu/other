@@ -41,13 +41,6 @@
     c= copy.deepcopy(a)
 
 	運用deepcopy複製reference才不會影響原本的
-
-## hashmap
-	
-	定義key 和 value
-	要注意Enum是value不能相同
-	hash是key不能相同
-	如同之前sun對sunday是key對value
   
 ### hw 
 	
@@ -83,8 +76,14 @@
     3
 
 ## dict 
-
-    dict = {'a': 3, 'b': 2, 'c': 1}
+## hashmap
+	
+	定義key 和 value
+	要注意Enum是value不能相同
+	hash是key不能相同
+	如同之前sun對sunday是key對value
+  
+  dict = {'a': 3, 'b': 2, 'c': 1}
     無排序性，所以print順序會散
     取出用print(dict['a'])，會噴出3
 
